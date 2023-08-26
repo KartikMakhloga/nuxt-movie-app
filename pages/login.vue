@@ -16,4 +16,7 @@ definePageMeta({
             <input type="password" />
         </label>
     </form>
+    <div style="margin-top: 30px;">
+        <NuxtLink to="/">Back to Home</NuxtLink>
+    </div>
 </template>
